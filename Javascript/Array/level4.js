@@ -3,3 +3,10 @@
 //true
 const name= 'hari'
 const allUsers = ['hari','shyam','thakur']
+
+
+//Q2 find number of duplicates
+//expected output is : 2
+//true
+const user= 'hari'
+const userArr = ['hari','shyam','hari','thakur']
