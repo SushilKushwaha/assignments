@@ -11,3 +11,5 @@ const users =['hari', 'shyam', 'hari']
 
 const newArr = [[4,5], [5,7], [7,2]]
 //calculate the sum of all the odd numbers inside this nested array
+
+
