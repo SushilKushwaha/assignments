@@ -13,3 +13,16 @@ const newArr = [[4,5], [5,7], [7,2]]
 //calculate the sum of all the odd numbers inside this nested array
 
 
+const userDetails= [
+    {score: 0, name:'hari', marks: [10,3,23]},
+    {score: 0, name:'shyam', marks: [50,23,23]},
+    {score: 0, name:'shyam',marks: [20,13,43]},
+]
+//loop over the arr of objects and calculate total score, expected output is:
+
+// [
+//     {score: 36, name:'hari', marks: [10,3,23]},
+//     {score: 96, name:'shyam', marks: [50,23,23]},
+//     {score: 76, name:'shyam',marks: [20,13,43]},
+// ]
+
