@@ -12,6 +12,14 @@ const users =['hari', 'shyam', 'hari']
 const newArr = [[4,5], [5,7], [7,2]]
 //calculate the sum of all the odd numbers inside this nested array
 
+const myDetails = [
+    {id:3, name: 'hari'},
+    {id:5, name: 'shyam'},
+    {id:6, name: 'gopal'},
+  ]
+  
+// return only array of ids: expected output  [3,5,6]
+
 
 const userDetails= [
     {score: 0, name:'hari', marks: [10,3,23]},

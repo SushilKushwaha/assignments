@@ -2,7 +2,7 @@
 //expected output is : 
 //true
 const name= 'hari'
-const allUsers = ['hari','shyam','thakur']
+const allUsers = ['shyam','thakur','hari']
 
 
 //Q2 find number of duplicates
